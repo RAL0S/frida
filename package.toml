@@ -1,0 +1,9 @@
+[package_detail]
+name = "frida"
+description = "Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers."
+version = "16.0.2"
+source_url = "https://github.com/frida/frida"
+license = "wxWindows Library Licence, Version 3.1"
+install_script = "setup.sh"
+install_script_type = "shell"
+
